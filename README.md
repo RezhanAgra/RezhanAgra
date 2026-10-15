@@ -1,82 +1,107 @@
-<h3 data-importer="text" align="left">Hi 👋! My name is  Agra Rezhan and I'm a Fullstack Web & Mobile Developer, from Indonesia</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=220&section=header&text=Agra%20Rezhan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-###
+<p align="center">
+  <a href="https://github.com/RezhanAgra">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Agra+Rezhan+%F0%9F%91%8B;Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Flutter;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  </a>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RezhanAgra&label=Profile%20views&color=bd93f9&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/RezhanAgra?label=Followers&style=flat-square&color=ff79c6" alt="followers" />
+</p>
 
-###
+---
 
-<img data-importer="image" align="right" height="145" src="https://i.imgflip.com/65efzo.gif"  />
+## 🧑‍💻 About Me
 
-###
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
+- 🌏 Fullstack **Web & Mobile Developer** from **Indonesia**
+- 🛠️ Building web apps with **Laravel, React, Next.js & Node.js**
+- 📱 Crafting mobile apps with **Flutter & Dart**
+- 🌱 Currently exploring **TypeScript, Docker & Google Cloud**
+- 💬 Ask me about **web development, APIs & databases**
+- ⚡ Fun fact: I turn coffee ☕ into code
 
-###
+<br clear="right" />
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
+---
 
-###
+## 🚀 Tech Stack
 
-<br clear="both">
+<h4>💻 Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,dart&theme=dark" alt="languages" />
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/snake-output/snake.svg" alt="Snake animation" />
+<h4>🎨 Frontend & Mobile</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter&theme=dark" alt="frontend" />
+</p>
 
-###
+<h4>⚙️ Backend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" alt="backend" />
+</p>
+
+<h4>🗄️ Database</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="database" />
+</p>
+
+<h4>☁️ DevOps & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,postman,eslint,vscode,figma,discord&theme=dark" alt="tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/stats-output/stats.svg" height="165" alt="stats" />
+  <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/languages-output/languages.svg" height="165" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RezhanAgra&theme=dracula&hide_border=false" alt="streak" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/RezhanAgra/Kopi-Kita-Website">
+    <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/stats-output/pin-kopi-kita.svg" alt="Kopi-Kita-Website" />
+  </a>
+  <a href="https://github.com/RezhanAgra/porfolio">
+    <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/stats-output/pin-portfolio.svg" alt="porfolio" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<!-- Ganti setiap "#" dengan link akun kamu -->
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RezhanAgra/RezhanAgra/snake-output/snake.svg" alt="Snake animation" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=120&section=footer" width="100%" alt="footer" />
