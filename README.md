@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Hello World I'm Rezhan Agra" />
-</p>
+    <img src="github-header-banner.png" width="100%" alt="Hello World I'm Rezhan Agra" />
 
 <p align="center">
   I am a Fullstack Web &amp; Mobile Developer from Indonesia. I enjoy building complete products, from responsive web apps with Laravel, React and Next.js to cross-platform mobile apps with Flutter. I care about clean, maintainable code, smooth user experiences and reliable backends, and I'm always learning new tools to ship better software.
