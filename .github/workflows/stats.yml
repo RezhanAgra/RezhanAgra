@@ -2,7 +2,7 @@ name: Generate stats card
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -24,10 +24,25 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
+      - name: generate pin-kopi-kita.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Kopi-Kita-Website&theme=dracula&show_owner=false
+          path: dist/pin-kopi-kita.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: push stats.svg to the output branch
+      - name: generate pin-portfolio.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=porfolio&theme=dracula&show_owner=false
+          path: dist/pin-portfolio.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: stats-output
